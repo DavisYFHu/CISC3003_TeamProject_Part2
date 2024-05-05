@@ -56,12 +56,3 @@ Contributions to the Shopping Cart project are welcome! Here are a few ways you 
 
 Thank you to all the contributors who have helped to make this project better.
 
-## License
-
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
-
-## Contact
-
-If you have any questions, please email us at `support@shopping-cart.com`.
-
-Enjoy your shopping experience with our Shopping Cart with Checkout System!
