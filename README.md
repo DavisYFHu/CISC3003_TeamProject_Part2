@@ -25,18 +25,14 @@ Before you begin, ensure you have met the following requirements:
 
 Follow these steps to get your Shopping Cart system up and running:
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/shopping-cart.git
-   ```
-2. **Create the Database**:
+1. **Create the Database**:
    - Import the `cart_system.sql` file into your MySQL server to set up the database schema.
-3. **Configure Database Connection**:
+2. **Configure Database Connection**:
    - Modify the `config.php` file to match your database server credentials (host, username, password, database name).
-4. **Start your server**:
+3. **Start your server**:
    - Use XAMPP or any other local server solution to run your server.
    - Place the project in the server's root directory (e.g., `htdocs` for XAMPP).
-5. **Access the Project**:
+4. **Access the Project**:
    - Open your web browser and navigate to `http://localhost/shopping-cart/` to start using the application.
 
 ## Usage
